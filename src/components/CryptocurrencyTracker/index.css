@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.appContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  height: 100vh;
+  background-color: #000000;
+}
+
+.errorMessage {
+  text-align: center;
+  color: #00e7ff;
+  font-size: 45px;
+  font-weight: 600;
+  margin: 5px;
+}
